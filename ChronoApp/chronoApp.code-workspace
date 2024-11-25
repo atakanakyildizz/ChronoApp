@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../chronoApp"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../chronoApp-1"
+		},
+		{
+			"path": "../ChronoApp.xcodeproj"
+		},
+		{
+			"path": "../ChronoAppTests"
+		},
+		{
+			"path": "../ChronoAppUITests"
+		}
+	],
+	"settings": {}
+}
